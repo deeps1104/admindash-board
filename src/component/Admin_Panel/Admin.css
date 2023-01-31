@@ -1,0 +1,32 @@
+.form_list div{
+  background-color: rgb(205, 84, 84);
+    padding-top:15px 
+}
+.form_list{
+  position: relative;
+}
+.main-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 55px;
+}
+
+
+.table_data tbody tr td{
+  font-size: 16px;
+}
+
+.table_data thead tr{
+  background-color: rgb(20, 9, 9);
+  }
+  .table_data thead tr th{
+    color: rgb(253, 250, 250);
+    font-size: 16px;
+
+    }
+
+.table_data tbody tr:nth-child(even){
+background-color: rgb(171, 164, 164);
+color: white;
+}
